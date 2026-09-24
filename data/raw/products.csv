@@ -1,0 +1,101 @@
+product_id,product_name,category,unit_price,cost
+P0001,Desk,FURNITURE,458.83,337.34
+P0002,Phone Stand,Accessories,882.41,555.56
+P0003,Coffee Machine,Home,199.88,99.3
+P0004,Standing Desk,Furniture,83.83,59.51
+P0005,USB Cable,Accessories,727.32,481.79
+P0006,Vacuum Cleaner,Home,39.39,29.19
+P0007,Vacuum Cleaner,Home,1001.44,514.44
+P0008,Laptop Bag,Accessories,230.46,116.39
+P0009,Vacuum Cleaner,Home,375.53,228.11
+P0010,Standing Desk,Furniture,526.85,283.11
+P0011,Desk,FURNITURE,740.05,363.99
+P0012,Air Purifier,Home,361.19,202.23
+P0013,USB Cable,Accessories,555.44,380.78
+P0014,Power Bank,Accessories,251.61,152.04
+P0015,Standing Desk,Furniture,717.01,332.65
+P0016,Bookshelf,Furniture,734.94,368.32
+P0017,Bookshelf,Furniture,92.09,67.66
+P0018,Mouse,Electronics,1159.27,802.82
+P0019,Coffee Machine,Home,375.97,180.2
+P0020,Office Chair,Furniture,825.82,480.67
+P0021,Vacuum Cleaner,Home,159.62,95.54
+P0022,Laptop,Electronics,55.75,40.3
+P0023,Desk,FURNITURE,321.65,208.67
+P0024,Laptop Bag,Accessories,384.38,232.94
+P0025,Desk Lamp,Home,662.85,335.04
+P0026,Monitor,Electronics,1163.96,794.45
+P0027,Office Chair,Furniture,1128.31,810.63
+P0028,Laptop Bag,Accessories,723.51,525.68
+P0029,Standing Desk,Furniture,119.86,60.98
+P0030,Bookshelf,Furniture,68.59,37.56
+P0031,Vacuum Cleaner,Home,475.58,252.73
+P0032,Phone Stand,Accessories,997.05,555.38
+P0033,Desk Lamp,Home,347.91,213.2
+P0034,Vacuum Cleaner,Home,182.0,125.7
+P0035,USB Cable,Accessories,103.34,77.1
+P0036,Phone Stand,Accessories,930.11,474.0
+P0037,Bookshelf,Furniture,21.54,14.96
+P0038,Vacuum Cleaner,Home,852.63,570.16
+P0039,Headphones,Electronics,928.96,438.67
+P0040,Desk,FURNITURE,439.78,213.19
+P0041,Keyboard,Electronics,1037.78,661.05
+P0042,Phone Stand,Accessories,407.11,190.96
+P0043,Desk,Furniture,383.51,209.99
+P0044,Air Purifier,Home,879.58,564.05
+P0045,Laptop Bag,ACCESSORIES,1066.35,630.92
+P0046,Phone Stand,ACCESSORIES,156.72,104.06
+P0047,Vacuum Cleaner,Home,916.53,566.77
+P0048,Power Bank,Accessories,928.6,555.43
+P0049,Bookshelf,Furniture,634.44,366.87
+P0050,Desk,Furniture,45.12,21.76
+P0051,Laptop Bag,Accessories,52.24,33.48
+P0052,Headphones,Electronics,387.51,233.5
+P0053,Laptop,Electronics,1090.47,572.27
+P0054,Laptop,ELECTRONICS,501.3,339.21
+P0055,Laptop Bag,Accessories,286.13,135.37
+P0056,Office Chair,Furniture,358.36,178.59
+P0057,Office Chair,Furniture,1116.69,773.24
+P0058,Standing Desk,Furniture,765.58,544.66
+P0059,Coffee Machine,Home,967.35,489.45
+P0060,Power Bank,Accessories,1072.68,656.27
+P0061,Laptop,Electronics,971.82,698.57
+P0062,USB Cable,Accessories,391.83,189.26
+P0063,Headphones,Electronics,285.1,164.83
+P0064,Desk Lamp,Home,984.35,697.14
+P0065,Headphones,Electronics,23.24,14.02
+P0066,Laptop Bag,Accessories,509.63,263.29
+P0067,Laptop,Electronics,157.04,86.57
+P0068,Desk,Furniture,1132.35,619.35
+P0069,Bookshelf,Furniture,629.77,416.22
+P0070,Desk Lamp,Home,445.9,330.65
+P0071,USB Cable,ACCESSORIES,1155.5,607.26
+P0072,Vacuum Cleaner,Home,604.24,326.45
+P0073,Laptop Bag,Accessories,352.54,162.54
+P0074,Bookshelf,Furniture,737.33,442.99
+P0075,Webcam,Electronics,76.0,40.55
+P0076,Laptop,Electronics,1091.3,569.52
+P0077,Power Bank,Accessories,186.7,111.43
+P0078,Power Bank,Accessories,1183.0,618.26
+P0079,Webcam,Electronics,811.48,550.58
+P0080,Webcam,Electronics,296.6,198.27
+P0081,Office Chair,FURNITURE,450.82,288.39
+P0082,Power Bank,Accessories,765.73,467.66
+P0083,Coffee Machine,Home,121.99,85.47
+P0084,Monitor,ELECTRONICS,395.12,199.91
+P0085,Standing Desk,Furniture,63.32,39.72
+P0086,Coffee Machine,Home,817.91,372.13
+P0087,Webcam,Electronics,621.83,322.08
+P0088,Coffee Machine,Home,779.53,391.57
+P0089,Bookshelf,Furniture,833.76,471.93
+P0090,Monitor,Electronics,1125.03,552.68
+P0091,Standing Desk,Furniture,419.16,202.89
+P0092,Keyboard,Electronics,1110.76,792.2
+P0093,Desk,Furniture,320.66,207.79
+P0094,Phone Stand,Accessories,983.41,606.33
+P0095,Laptop Bag,Accessories,642.64,335.82
+P0096,Headphones,Electronics,125.33,90.13
+P0097,Coffee Machine,Home,1082.0,692.4
+P0098,Mouse,Electronics,416.75,231.2
+P0099,Office Chair,Furniture,875.26,629.43
+P0100,Vacuum Cleaner,Home,1066.2,729.24
